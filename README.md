@@ -51,3 +51,10 @@
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
 |Git              | :heavy_check_mark: | :heavy_check_mark: |                      |   
 |GitHub           | :heavy_check_mark: | :heavy_check_mark: |                      |   
+
+## Credits
+I would like to thank [Syknapse](https://github.com/Syknapse) and [MakeItBack](https://github.com/MakeItBack) for the idea for this [tracker](https://github.com/Syknapse/My-Learning-Tracker-first-ten-months)
+
+## License
+This project is licensed under the terms of the BSD 3-clause "New" or "Revised" license.<br>
+**Feel free to clone or adapt any parts of this doc that you find useful**
