@@ -4,7 +4,7 @@
 ## Courses and Resources
 | Course | Tutor / School | Date (started) | Status |  Certificate |
 |--------|----------------|:----------------:|:--------:|:--------------:|
-|[Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)| Charles Severance / Python for Everyone|June 2021|[:clock3:](# "In progress") | [![Certificate](https://github.com/MakeItBack/Learning-Tracker/blob/master/Icons/star.png)](https://ude.my/UC-a5576119-3703-445e-b583-738fcc7e15e2/ "View Cerificate") |
+|[Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)| Charles Severance / Python for Everyone|June 2021|[:clock3:](# "In progress") | -- 
 
 
 |[JavaScript One day Workshop](https://www.notion.so/Javascript-full-day-b247e04e91434dfea004f58c39399ecc) | Ben Quartermaine / Le Wagon |May 2020|[:heavy_check_mark:](# "Complete")| -- |
