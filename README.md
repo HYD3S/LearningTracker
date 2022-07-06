@@ -13,37 +13,37 @@
 ## Front-End
 | Tech            |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|HTML             |:heavy_check_mark:|   |                      |
-|CSS              |:heavy_check_mark:|   |      |
-|Javascript       |:heavy_check_mark:|   |      |
-|Bootstrap        |                      |          |      |
-|Sass             |                      |   |      |
-|jQuery           |                      |   |      |
-|Semantic UI      |                      |   |      |
-|Markdown         |                      |   |      |
-|React            |                      |                      |      |
+|HTML             |:heavy_check_mark:|   |                    
+|CSS              |:heavy_check_mark:|   |     
+|Javascript       |:heavy_check_mark:|   |     
+|Bootstrap        |                      |          
+|Sass             |                      |   
+|jQuery           |                      |   
+|Semantic UI      |                      |   
+|Markdown         |                      |   
+|React            |                      |                     
 
 
 ## Back-End
 | Tech            |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|node.js          | :large_blue_diamond: | :large_blue_diamond:  |          | 
-|Mongodb          | :large_blue_diamond: |  |          |
-|Mongoose         | :large_blue_diamond: |  |          |
-|Express          | :large_blue_diamond: |  |          |
-|Passport         | :large_blue_diamond: |  |          |
-|Command Line     | :large_blue_diamond: | :large_blue_diamond: |          |
-|NPM              | :large_blue_diamond: | :large_blue_diamond: |          |
-|Passport         | :large_blue_diamond: |  |          |
-|Postman          | :large_blue_diamond: | :large_blue_diamond: |          |
-|API              | :large_blue_diamond: | :large_blue_diamond: |          |
-|Pipedream        | :large_blue_diamond: | :large_blue_diamond: |          |
+|node.js          | :: | ::  |          | 
+|Mongodb          | :: |  |          |
+|Mongoose         | :: |  |          |
+|Express          | :: |  |          |
+|Passport         | :: |  |          |
+|Command Line     | :: | :: |          |
+|NPM              | :: | :: |          |
+|Passport         | :: |  |          |
+|Postman          | :: | :: |          |
+|API              | :heavy_check_mark: | :: |          |
+|Pipedream        | :: | :: |          |
 |Ruby             |    |    |    |
-|Python           |    |    |    |
+|Python           | :heavy_check_mark:  |    |    |
 |SQL              |    |    |    |
-|AWS              | :large_blue_diamond: |  |                      |
-|Netlify          | :large_blue_diamond: |  |                      |          
-|Heroku           | :large_blue_diamond: |  |                      |  
+|AWS              | :: |  |                      |
+|Netlify          | :: |  |                      |          
+|Heroku           | :: |  |                      |  
 
 
 ## Other  
