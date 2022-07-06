@@ -27,27 +27,27 @@
 ## Back-End
 | Tech            |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|node.js          | :: | ::  |          | 
-|Mongodb          | :: |  |          |
-|Mongoose         | :: |  |          |
-|Express          | :: |  |          |
-|Passport         | :: |  |          |
-|Command Line     | :: | :: |          |
-|NPM              | :: | :: |          |
-|Passport         | :: |  |          |
-|Postman          | :: | :: |          |
-|API              | :heavy_check_mark: | :: |          |
-|Pipedream        | :: | :: |          |
+|node.js          |  |   |          | 
+|Mongodb          |  |  |          |
+|Mongoose         |  |  |          |
+|Express          |  |  |          |
+|Passport         |  |  |          |
+|Command Line     |  |  |          |
+|NPM              |  |  |          |
+|Passport         |  |  |          |
+|Postman          |  |  |          |
+|API              | :heavy_check_mark: |  |          |
+|Pipedream        |  |  |          |
 |Ruby             |    |    |    |
 |Python           | :heavy_check_mark:  |    |    |
 |SQL              |    |    |    |
-|AWS              | :: |  |                      |
-|Netlify          | :: |  |                      |          
-|Heroku           | :: |  |                      |  
+|AWS              |  |  |                      |
+|Netlify          |  |  |                      |          
+|Heroku           |  |  |                      |  
 
 
 ## Other  
 | Tech            |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|Git              | :large_blue_diamond: | :large_blue_diamond: |                      |   
-|GitHub           | :large_blue_diamond: | :large_blue_diamond: |                      |   
+|Git              | :heavy_check_mark: | :heavy_check_mark: |                      |   
+|GitHub           | :heavy_check_mark: | :heavy_check_mark: |                      |   
