@@ -13,15 +13,15 @@
 ## Front-End
 | Tech            |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|HTML             | [x] | :large_blue_diamond: |      |
-|CSS              | [x] | :large_blue_diamond: |      |
-|Javascript       | [x] | :large_blue_diamond: |      |
-|Bootstrap        | [x] | :large_blue_diamond: |      |
-|Sass             | [x] | :large_blue_diamond: |      |
-|jQuery           | [x] |                      |      |
-|Semantic UI      | [x] |                      |      |
-|Markdown         | [x] | :large_blue_diamond: |      |
-|React            | [x] |                      |      |[x]
+|HTML             |:heavy_check_mark:|:large_blue_diamond: |      |
+|CSS              |:heavy_check_mark:|:large_blue_diamond: |      |
+|Javascript       |:heavy_check_mark:| :large_blue_diamond: |      |
+|Bootstrap        |:heavy_check_mark:| :large_blue_diamond: |      |
+|Sass             |:heavy_check_mark:| :large_blue_diamond: |      |
+|jQuery           |:heavy_check_mark:|                      |      |
+|Semantic UI      |:heavy_check_mark:|                      |      |
+|Markdown         |:heavy_check_mark:| :large_blue_diamond: |      |
+|React            |:heavy_check_mark:|                      |      |
 
 
 ## Back-End
