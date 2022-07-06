@@ -13,7 +13,7 @@
 ## Front-End
 | Tech            |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|HTML             |:heavy_check_mark:|:large_blue_diamond: |      |
+|HTML             |:white_check_mark:|:large_blue_diamond: |      |
 |CSS              |:heavy_check_mark:|:large_blue_diamond: |      |
 |Javascript       |:heavy_check_mark:| :large_blue_diamond: |      |
 |Bootstrap        |:heavy_check_mark:| :large_blue_diamond: |      |
